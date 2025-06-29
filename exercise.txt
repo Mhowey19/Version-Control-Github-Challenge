@@ -1,0 +1,9 @@
+1. Explain what the terminal is in your own words. 
+	A command program within the computer that allows more control on files and void of a GUI. 
+2. What is the major difference between Git and GitHub? 
+	Git is local and tracks the versions of the system. GitHub is online and allows for uploading 	repositories and allow for changes within a team. 
+3.What are the steps to fork a GitHub repository?
+ 	Find the repo you want to fork 
+	Click the fork Button 
+	Click the account you want to fork
+	Pressing the pencil icon allows for editing and committing of the forked code
